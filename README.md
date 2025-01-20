@@ -8,7 +8,7 @@
 
 ## 2. Data preprocessing 数据预预处理
 (1) (filepath: \preprocess.py)  
-将数据集划分为训练集和测试集。
+将数据集划分为训练集和测试集。 
 (2) (filepath: \node_process.py)  
 将节点特征数据处理成不同方法输入的形式。   
 
