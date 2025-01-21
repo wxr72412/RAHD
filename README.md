@@ -2,8 +2,8 @@
 # 代码：华南理工大学学报(自然科学版)
 
 ## 1. Datasets 数据集
-(1)CELL：真实的基站数据集因合作方的规定无法公开。   
-(2)PEMS04、PEMS08：两个交通流量数据集可从 https://github.com/divanoresia/Traffic 下载。  
+(1) CELL：真实的基站数据集因合作方的规定无法公开。   
+(2) PEMS04、PEMS08：两个交通流量数据集可从 https://github.com/divanoresia/Traffic 下载。  
 
 ## 2. Data preprocessing 数据预预处理
 (1) (filepath: \preprocess.py)  
