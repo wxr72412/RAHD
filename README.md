@@ -3,8 +3,7 @@
 
 ## 1. Datasets 数据集
 (1)CELL：真实的基站数据集因合作方的规定无法公开。   
-(2)PEMS04：交通流量数据1。   
-(3)PEMS08：交通流量数据2。   
+(2)PEMS04、PEMS08：两个交通流量数据集可从https://github.com/divanoresia/Traffic下载。  
 
 ## 2. Data preprocessing 数据预预处理
 (1) (filepath: \preprocess.py)  
