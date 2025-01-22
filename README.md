@@ -1,4 +1,4 @@
-# Coder for Journal of South China University of Technology (Natural Science Edition)
+# Code for Journal of South China University of Technology (Natural Science Edition)
 # 代码：华南理工大学学报(自然科学版)
 
 ## 1. Datasets 数据集
